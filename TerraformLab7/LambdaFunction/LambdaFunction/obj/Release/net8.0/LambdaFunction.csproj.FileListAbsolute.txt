@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\obj\Release\net8.0\LambdaFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\obj\Release\net8.0\LambdaFunction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\obj\Release\net8.0\LambdaFunction.AssemblyInfo.cs
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\obj\Release\net8.0\LambdaFunction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\bin\Release\net8.0\LambdaFunction.deps.json
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\bin\Release\net8.0\LambdaFunction.dll
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\bin\Release\net8.0\LambdaFunction.pdb
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\LambdaFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\LambdaFunction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\LambdaFunction.AssemblyInfo.cs
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\LambdaFunction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\LambdaFunction.dll
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\refint\LambdaFunction.dll
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\LambdaFunction.pdb
+C:\Users\user\Desktop\TerraformLab7\TerraformLab7\LambdaFunction\LambdaFunction\obj\Release\net8.0\ref\LambdaFunction.dll

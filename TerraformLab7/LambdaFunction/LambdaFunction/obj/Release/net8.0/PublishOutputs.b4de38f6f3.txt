@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\TerraformLab7\lambda_publish\LambdaFunction.dll
+C:\Users\user\Desktop\TerraformLab7\lambda_publish\LambdaFunction.deps.json
+C:\Users\user\Desktop\TerraformLab7\lambda_publish\LambdaFunction.pdb

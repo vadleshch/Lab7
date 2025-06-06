@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlT6egLBGyg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\TerraformLab7\\TerraformLab7\\TerraformLab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.core\\2.6.0\\amazon.lambda.core.2.6.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.s3events\\3.1.0\\amazon.lambda.s3events.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\4.0.0.7\\awssdk.core.4.0.0.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.s3\\4.0.1.3\\awssdk.s3.4.0.1.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.s3control\\4.0.1.3\\awssdk.s3control.4.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

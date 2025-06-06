@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\publish\TerraformLab7.exe
+C:\Users\user\Desktop\publish\TerraformLab7.dll
+C:\Users\user\Desktop\publish\TerraformLab7.deps.json
+C:\Users\user\Desktop\publish\TerraformLab7.runtimeconfig.json
+C:\Users\user\Desktop\publish\TerraformLab7.pdb
+C:\Users\user\Desktop\publish\AWSSDK.Core.dll
+C:\Users\user\Desktop\publish\AWSSDK.S3.dll
+C:\Users\user\Desktop\publish\AWSSDK.S3Control.dll
